@@ -1,6 +1,5 @@
  <h1>✌️About Me:</h1>
     <h3>An enthusiastic 2nd year Btech Computer Science Student. Passionate App Developer and Web Developer</h3>
-
     <h1 align="left">Languages and Tools:</h1>
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C Badge">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge">
