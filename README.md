@@ -1,7 +1,53 @@
-# ✌️ About Me:
-An enthusiastic 2nd year Btech Computer Science Student. Passionate App Developer and Web Developer.
-# 💻 Languages And Tools:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![ReactJS](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white ) ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white ) ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-# 📊 GitHub Stats:
+<h1 align="center">Hey there, I'm Nidhin ✌️</h1>
+<h3 align="center">🚀 Flutter Developer | 💡 GDG on Campus Organizer | 🎯 Final Year CSE Student</h3>
 
-![nidhin29's Stats](https://github-readme-stats.vercel.app/api?username=nidhin29&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)<br/>
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0AFFEF&center=true&vCenter=true&width=500&lines=Crafting+Apps+with+Flutter;Bringing+Ideas+to+Life;Lifelong+Learner+and+Mentor;Open+Source+Contributor;Always+Building+Something+Cool+💡" alt="Typing SVG" />
+</p>
+
+
+---
+
+## 👨‍💻 About Me
+
+🎓 Final-year Computer Science student with a passion for solving real-world problems through code.  
+📱 Flutter & Firebase enthusiast — love building fast, beautiful, and scalable mobile apps.  
+🌍 Active contributor to tech communities: **GDG on Campus Organizer**,and **App Dev at Proddec**.  
+🛠️ Constantly building and shipping projects that make a difference.  
+🎤 Conducted workshops, mentored juniors, and hosted technical events to uplift the community.
+
+---
+
+## 💻 Tech Stack & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,python,java,html,css,js,bootstrap,react,dart,flutter,firebase,git,figma,tailwind,vscode&theme=light" />
+</p>
+
+---
+
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nidhin29&theme=radical&show_icons=true&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhin29&layout=compact&theme=radical&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🌐 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nidhin-v-ninan-b11b7226a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:nidhinvninanwork@gamil.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://portfolio-git-master-nidhin-v-ninan-s-projects.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
