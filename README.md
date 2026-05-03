@@ -4,8 +4,9 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0AFFEF&center=true&vCenter=true&width=500&lines=Building+Scalable+Backends;Architecting+Event-Driven+Systems;Flutter+&amp;+React+Expert;Automating+with+GitHub+Actions;Always+Shipping+Something+Cool+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0AFFEF&center=true&vCenter=true&width=550&lines=Full-Stack+Solution+Architect;Building+Event-Driven+Backends;Flutter+%26+React+Expert;DevOps+%26+Cloud+Infrastructure;Always+Shipping+Something+Cool+💡" alt="Typing SVG" />
 </p>
+
 
 ---
 
